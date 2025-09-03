@@ -1,6 +1,6 @@
 // Tipos primitivos em JS
 const meuNumero = 42; // number
-const meuTexto = "Olá"; // string
+const meuTexto = "Fala, meu galo"; // string
 const verdadeiro = true; // boolean
 const nulo = null; // null
 let indefinido; // undefined
